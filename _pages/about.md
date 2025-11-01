@@ -33,8 +33,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-# My text
-
 Dr. Ihsan Boustani is a professor emeritus in Computational and Theoretical Chemistry. He received his Bsc in Mathematics and Physics at the University of Aleppo, Syria, then he moved to the Technical University Berlin where he received Diplom-Engineering in Solid State Physics.
 
 He completed his PhD degree at the Free University Berlin in Cluster Physics, then he finally moved to the University of Wuppertal in Germany, where he has done the Habilitation degree, thesis: the Density Functional Theory in Chemistry. One of the international referees of the Habilitation thesis was the Nobel price carrier in 1998, Prof. Walter Kohn.
