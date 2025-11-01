@@ -32,3 +32,17 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+# My text
+
+Dr. Ihsan Boustani is a professor emeritus in Computational and Theoretical Chemistry. He received his Bsc in Mathematics and Physics at the University of Aleppo, Syria, then he moved to the Technical University Berlin where he received Diplom-Engineering in Solid State Physics.
+
+He completed his PhD degree at the Free University Berlin in Cluster Physics, then he finally moved to the University of Wuppertal in Germany, where he has done the Habilitation degree, thesis: the Density Functional Theory in Chemistry. One of the international referees of the Habilitation thesis was the Nobel price carrier in 1998, Prof. Walter Kohn.
+
+He is internationally recognized as the pioneer in theoretical studies of elemental boron nanostructures. He established a new research field named Boron-Based Nanomaterials and is leading in the field of boron nanoclusters and nanotubes. He predicted theoretically the existence of planar boron cluster, boron nanotubes, boron fullerenes, and boron sheets (borophenes). Recent experimental studies
+confirmed his predictions. He has published around 50 benchmark papers including 8 book contributions. His Hirsch-Index is about 25.
+
+He is a member of the American Gordon Conferences, the German Research Foundation (DFG) as well as of several International Scientific Committees. His refereeing activities expand over many international journals and institutions with high reputations like Nature, JACS, IOP, NSF. IJQC. He is collaborating with
+different groups world wide.
+
+Dr. Ihsan Boustani is viewed as pioneer and leader in computer modeling of boron clusters and nano-structures. This computer modeling were impossible without using high performance computing. He was teaching Theoretical Chemistry, Symmetry and Group Theory at the University of Wuppertal in Germany
