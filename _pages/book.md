@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /book/
-title: Molecular Modelling and Synthesis of Nanomaterials
-description: Applications in Carbon- and Boron‑based Nanotechnology
+title: book
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
+
+### Molecular Modelling and Synthesis of Nanomaterials: Applications in Carbon- and Boron‑based Nanotechnology
 
 <div class="row mt-3">
   <div class="col-md-8 order-2 order-md-1">
