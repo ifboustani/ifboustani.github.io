@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-book",
+          title: "book",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/book/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a distilled version of my CV. Contact me for further details.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-molecular-modelling-and-synthesis-of-nanomaterials",
-          title: "Molecular Modelling and Synthesis of Nanomaterials",
-          description: "Applications in Carbon- and Boron‑based Nanotechnology",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/book/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
