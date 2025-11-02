@@ -443,8 +443,8 @@ ninja.data = [{
             },},{id: "news-i-just-became-professor-emeritus-as-i-look-forward-to-this-new-chapter-of-life-i-am-deeply-grateful-for-the-many-wonderful-colleagues-students-and-collaborators-with-whom-i-ve-had-the-privilege-to-work-over-the-years",
           title: 'I just became Professor Emeritus. As I look forward to this new chapter...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
