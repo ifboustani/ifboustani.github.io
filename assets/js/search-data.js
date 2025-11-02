@@ -440,15 +440,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-just-became-professor-emeritus-as-i-look-forward-to-this-new-chapter-of-life-i-am-deeply-grateful-for-the-many-wonderful-colleagues-students-and-collaborators-with-whom-i-ve-had-the-privilege-to-work-over-the-years",
-          title: 'I just became Professor Emeritus. As I look forward to this new chapter...',
+            },},{id: "news-i-ve-just-retired-from-my-position-of-an-assistant-professor-at-university-of-wuppertal-as-i-look-forward-to-this-new-chapter-of-life-i-am-deeply-grateful-for-the-many-wonderful-colleagues-students-and-collaborators-with-whom-i-ve-had-the-privilege-to-work-over-the-years",
+          title: 'I’ve just retired from my position of an Assistant Professor at University of...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-am-delighted-to-share-that-my-new-book-has-just-been-published-and-is-now-available-through-springer-for-more-details-please-visit-my-dedicated-page",
+          title: 'I am delighted to share that my new book has just been published...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
