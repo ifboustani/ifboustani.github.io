@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Prof. em. in Computational and Theoretical Chemistry
+subtitle: >
+  <p>Asst. Prof. (Ret.) in Computational and Theoretical Chemistry</p>
 
 profile:
   align: right
@@ -25,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there, welcome to my personal website! I'm Ihsan Boustani, a professor emeritus in Computational and Theoretical Chemistry.
+Hey there, welcome to my personal website! I'm Ihsan Boustani, a retired Assistant Professor in Computational and Theoretical Chemistry.
 
 My academic path started at the [University of Aleppo](https://www.alepuniv.edu.sy/), where I received a Bsc in mathematics and physics. Later, I moved to Berlin and completed my Diplom-Engineering in [solid-state physics](https://en.wikipedia.org/wiki/Solid-state_physics) at the [Technical University](https://www.tu.berlin/en/). I continued my studies at the [Free University of Berlin](https://www.fu-berlin.de/en/index.html), where I earned my PhD in [cluster physics](https://en.wikipedia.org/wiki/Cluster_(physics)). Eventually, I joined the [University of Wuppertal](https://www.uni-wuppertal.de/de/), where I completed my Habilitation on density functional theory in chemistry. One of the referees of my thesis was [Walter Kohn](https://de.wikipedia.org/wiki/Walter_Kohn), one of the [1998 Nobel Laureates](https://www.nobelprize.org/prizes/chemistry/1998/8811-the-nobel-prize-in-chemistry-1998/).
 
@@ -35,4 +36,4 @@ I’ve published around [eighty papers](https://ifboustani.github.io/publication
 
 During my time at the [University of Wuppertal](https://www.uni-wuppertal.de/de/), I taught courses in theoretical chemistry, symmetry, and group theory. I’ve also been involved with organizations such as the [German Research Foundation (DFG)](https://www.dfg.de/en), the [Gordon Research Conferences](https://www.grc.org/), and various scientific committees and journals.
 
-Now, as professor emeritus, I still enjoy following new developments, discussing ideas, and occasionally revisiting old calculations with undiminished curiosity. So, feel free to reach out any time - I’m always glad to connect, exchange thoughts, and hear about new ideas!
+Now, as retired Assistant Professor, I still enjoy following new developments, discussing ideas, and occasionally revisiting old calculations with undiminished curiosity. So, feel free to reach out any time - I’m always glad to connect, exchange thoughts, and hear about new ideas!
