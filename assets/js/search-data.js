@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-book",
           title: "book",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Molecular Modelling and Synthesis of Nanomaterials — overview, cover, link, and BibTeX.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/book/";
